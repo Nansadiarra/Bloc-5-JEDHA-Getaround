@@ -1,0 +1,12 @@
+fastapi 
+uvicorn[standard]
+pydantic 
+typing 
+pandas 
+gunicorn 
+openpyxl 
+sklearn
+mlflow 
+boto3 
+python-multipart
+psutil
