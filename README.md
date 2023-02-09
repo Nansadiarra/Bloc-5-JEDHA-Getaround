@@ -12,7 +12,9 @@ The project goals:
 * **Dashboard**:https://getarounddash.herokuapp.com/
 
 ## Details for certification purpose
-
+* **e mail**:nansa.d@hotmail.fr
+* **video link**:https://share.vidyard.com/watch/AqFzziB3oFBpzjRBgvtNgw?
+* **Name**: Nansa DIARRA
 
 ## Datas
 
