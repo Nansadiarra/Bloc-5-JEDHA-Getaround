@@ -8,7 +8,7 @@ The project goals:
 * Web API exposing a machine learning prediction route
 
 ## Links
-* **API**:https://getaround22.herokuapp.com/docs#/Prediction/predict_Prediction_post
+* **API**:https://getaround22.herokuapp.com/docs
 * **Dashboard**:https://getarounddash.herokuapp.com/
 
 ## Details for certification purpose
