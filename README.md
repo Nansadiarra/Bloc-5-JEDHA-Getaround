@@ -21,3 +21,6 @@ The project goals:
 The data are composed of 2 dataset: 
 * Data Analysis (dashboard) Pricing  
 * For pricing optimization (machine learning + API)
+
+## Autors
+Nansa DIARRA
