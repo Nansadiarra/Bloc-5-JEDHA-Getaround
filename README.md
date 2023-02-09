@@ -23,4 +23,4 @@ The data are composed of 2 dataset:
 * For pricing optimization (machine learning + API)
 
 ## Autors
-Nansa DIARRA
+Nansa DIARRA https://github.com/Nansadiarra
